@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = macOS apps add StartAtLogin feature minimal work
+  s.description  = "Framework for Swift macOS apps looking to add \"Start at Login\" feature with minimal work"
 
   s.homepage     = "https://github.com/inket/StartAtLogin"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
